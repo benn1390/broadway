@@ -1,4 +1,4 @@
-*{
+body{
   font-family: Helvetica;
   text-align: center;
 }
@@ -24,7 +24,7 @@ p{
 }
 
 header{
-  background-image: url();
+  background-image: url(../images/the-flatiron-building.png);
 }
 
 footer{
@@ -33,4 +33,8 @@ footer{
 
 .nav{
   color: white;
+}
+
+#newyork{
+  background-image: url(../images/the-flatiron-building.png);
 }
